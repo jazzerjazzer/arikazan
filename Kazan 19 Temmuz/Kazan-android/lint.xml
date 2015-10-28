@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/po/kazan/ActionResolverAndroid.java" />
+        <ignore path="src/com/po/kazan/Map.java" />
+        <ignore path="src/com/po/kazan/MapLoc.java" />
+        <ignore path="src/com/po/kazan/MapLocation.java" />
+    </issue>
+</lint>

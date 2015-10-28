@@ -1,0 +1,14 @@
+info face="NeoSans" size=50 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=50 base=40 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="neo_sans_digit_small_0.png"
+chars count=10
+char id=48   x=26    y=0     width=23    height=35    xoffset=3     yoffset=5     xadvance=28    page=0  chnl=15
+char id=49   x=212   y=0     width=12    height=35    xoffset=5     yoffset=5     xadvance=28    page=0  chnl=15
+char id=50   x=168   y=0     width=21    height=35    xoffset=4     yoffset=5     xadvance=28    page=0  chnl=15
+char id=51   x=190   y=0     width=21    height=35    xoffset=3     yoffset=5     xadvance=28    page=0  chnl=15
+char id=52   x=0     y=0     width=25    height=35    xoffset=2     yoffset=5     xadvance=28    page=0  chnl=15
+char id=53   x=122   y=0     width=22    height=35    xoffset=3     yoffset=5     xadvance=28    page=0  chnl=15
+char id=54   x=50    y=0     width=23    height=35    xoffset=3     yoffset=5     xadvance=28    page=0  chnl=15
+char id=55   x=145   y=0     width=22    height=35    xoffset=3     yoffset=5     xadvance=28    page=0  chnl=15
+char id=56   x=74    y=0     width=23    height=35    xoffset=3     yoffset=5     xadvance=28    page=0  chnl=15
+char id=57   x=98    y=0     width=23    height=35    xoffset=2     yoffset=5     xadvance=28    page=0  chnl=15

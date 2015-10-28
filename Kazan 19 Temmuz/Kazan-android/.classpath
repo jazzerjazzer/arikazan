@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Kazan"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="/Kazan/libs/gdx.jar" sourcepath="/Kazan/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/Users/dogancandemirtas/Desktop/Kazan 19 Temmuz/Kazan-android/libs/sun-jndi-providerutil.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/dogancandemirtas/Desktop/adt-bundle-mac-x86_64-20140702/sdk/add-ons/addon-google_apis_x86-google-19/libs/maps.jar"/>
+	<classpathentry kind="lib" path="/Users/dogancandemirtas/Desktop/adt-bundle-mac-x86_64-20140702/sdk/platforms/android-20/android.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://developer.android.com/reference/"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dogancandemirtas/Desktop/adt-bundle-mac-x86_64-20140702/sdk/extras/google/google_play_services/libproject/google-play-services_lib/libs/google-play-services.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
